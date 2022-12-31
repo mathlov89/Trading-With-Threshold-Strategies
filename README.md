@@ -4,7 +4,7 @@
 
 ## About The Project
 
-[The recent paper](https://arxiv.org/abs/2111.14708) is devoted to investigate threshold-type strategies 
+The recent paper of [Lovas and Rásonyi (2022)](https://arxiv.org/abs/2111.14708) is devoted to investigate threshold-type strategies 
 in the context of ergodic control. It makes the first steps towards their optimization by proving 
 the ergodic properties of related functionals. Assuming Markovian price increments satisfying 
 a minorization condition and (one-sided) boundedness it was shown, in particular, that for given thresholds, 
